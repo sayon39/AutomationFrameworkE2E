@@ -1,0 +1,20 @@
+{
+  "Add-PET": {
+  "id": "$id",
+  "name": "$name",
+  "category": {
+    "id": 1,
+    "name": "Dogs"
+  },
+  "photoUrls": [
+    "$url"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "$status"
+  }
+}
